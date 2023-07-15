@@ -2,7 +2,7 @@
 ## Notes-Application Integrated with Firebase
 This project is an android base application which was developed using Android Studio
 ## Importing the Library
-Simply add the following dependency to your build.gradle file to use the latest version:
+Simply add the following dependency to your #build.gradle file to use the latest version:
 
 dependencies {
 
